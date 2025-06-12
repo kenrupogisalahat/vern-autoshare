@@ -1,11 +1,11 @@
 ╔════════════════════════════════════╗
-║       🌀 Vern Share Booster        ║
+║       🌀 Avric Share Booster        ║
 ╠════════════════════════════════════╣
 ║  Auto Share Facebook Posts Easily  ║
 ╚════════════════════════════════════╝
-🧑 Author  : vrax
-🌐 GitHub  : https://github.com/vraxyxx
-📘 FB Page : https://facebook.com/revn.19
+🧑 Author  : avric — original owner vrix
+🌐 GitHub  : https://github.com/avric
+📘 FB Page : https://facebook.com/avric.21
 ────────────────────────────────────────
 🔐 Input your Facebook Cookie below:
 🍪 Cookie: [user input]
